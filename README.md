@@ -21,9 +21,7 @@ This project involves creating a sales dashboard using Excel to visualize and an
 4) Monthly Trends: Trends in sales over months to identify peak periods and dips.
 
 ## Visuals
-
-## Total Sales
-![Total Sales](https://github.com/yourusername/yourrepository/raw/main/images/total_sales.png)
+https://github.com/PriyanshuDupare/Sales-Dashboard-Project/blob/main/Screenshot%20(935).png?raw=true
 
 ## Technologies Used
 # Excel: For data handling, analysis, and visualization.
