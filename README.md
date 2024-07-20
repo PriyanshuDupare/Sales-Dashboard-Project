@@ -22,6 +22,7 @@ This project involves creating a sales dashboard using Excel to visualize and an
 
 ## Visuals
 https://github.com/PriyanshuDupare/Sales-Dashboard-Project/blob/main/Screenshot%20(935).png?raw=true
+The Excel dashboard created for this project is fully dynamic and interactive. It includes slicers that allow users to filter data and update visualizations in real-time. This enables users to explore different aspects of the sales data by adjusting the filters to gain tailored insights instantly.
 
 ## Technologies Used
 # Excel: For data handling, analysis, and visualization.
