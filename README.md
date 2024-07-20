@@ -1,4 +1,4 @@
-### Sales Dashboard Project
+### Sales Completely Dynamic Dashboard Project
 ## Project Overview
 This project involves creating a sales dashboard using Excel to visualize and analyze sales data. The dashboard provides insights into various sales metrics and helps in making data-driven decisions.
 
